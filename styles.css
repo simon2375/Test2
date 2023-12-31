@@ -10,7 +10,5 @@ body {
 }
 
 .item {
-    background-color: #ffffff;
-    padding: 10px;
-    text-align: justify;
+    background-color: blueviolet;
 }
