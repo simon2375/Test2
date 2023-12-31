@@ -10,7 +10,7 @@ body {
 }
 
 .item {
-    background-color: #ffffff;
+    background-color: red;
     padding: 10px;
     text-align: justify;
 }
