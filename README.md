@@ -12,7 +12,7 @@ N - Node.js: A JavaScript runtime environment that allows you to run JavaScript 
 
 The MERN stack allows developers to build full-stack applications using JavaScript throughout the entire development process. It provides a seamless integration between the front-end and back-end components of an application.
 
-To use the MERN stack, you will need to have knowledge of JavaScript, MongoDB, Express.js, React.js, and Node.js.
+To use the MERN stack, you will need JavaScript, MongoDB, Express.js, React.js, and Node.js.
 
 When developing with the MERN stack, you can leverage the power of React.js for building dynamic and interactive user interfaces, while Express.js and Node.js handle the server-side logic and MongoDB stores the application data.
 
@@ -21,4 +21,5 @@ By following the MERN methodology, developers can create scalable and efficient 
 For more information on the MERN stack, refer to the official documentation and tutorials provided by the respective technologies.
 """
 
+Cool!!
 # Your code here...
