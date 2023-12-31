@@ -1,0 +1,16 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    color: #333333;
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columns with equal width */
+    grid-gap: 10px; /* gap between grid items */
+}
+
+.item {
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
