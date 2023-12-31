@@ -10,5 +10,11 @@ body {
 }
 
 .item {
+<<<<<<< HEAD
     background-color: blueviolet;
+=======
+    background-color: red;
+    padding: 10px;
+    text-align: justify;
+>>>>>>> main
 }
